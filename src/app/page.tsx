@@ -1,6 +1,8 @@
 import Button_01 from "./components/Buttons/Button_01";
 import Button_02 from "./components/Buttons/Button_02";
 import Button_03 from "./components/Buttons/Button_03";
+import Button_04 from "./components/Buttons/Button_04";
+import Button_05 from "./components/Buttons/Button_05";
 
 
 export default function Home() {
@@ -12,6 +14,8 @@ export default function Home() {
         <Button_01 />
         <Button_02 />      
         <Button_03 />        
+        <Button_04 />        
+        <Button_05 />        
       </div> 
     </div>
     </>
